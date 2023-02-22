@@ -1,7 +1,9 @@
 .q1{
+    padding-top: 10px;
     background-image: url(https://demo.kallyas.net/autotrader/wp-content/uploads/sites/87/revslider/auto-trader-slider/tesla.jpg);
 }
 .q3{
     padding: 10px 20px;
     background-color: #C32622;
+    color: white;
 }
