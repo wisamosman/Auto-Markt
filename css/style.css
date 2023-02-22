@@ -18,6 +18,7 @@
 .nav-link {
     color: white;
     font-weight: 700;
+    font-size: 20px;
 }
 .navbar{
     background-color: #181313;
@@ -30,5 +31,5 @@
     width: 200px;
 }
 .navbar-nav{
-    margin-left: 500px;
+    margin-left: 425px;
 }
