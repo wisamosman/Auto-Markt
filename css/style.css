@@ -69,11 +69,12 @@
     font-size: 18px;
     color:#ADA49C;
 }
-#w2{
-    background-color: #303968;
-}
+
 .w4{
     background-color: white;
     border-radius: 15px;
     margin-top: -20px;
+}
+.w1{
+    background-color:#F7F7F7 ;
 }
