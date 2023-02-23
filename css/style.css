@@ -60,3 +60,12 @@
 .bi{
     color: #C32622;
 }
+.form-label{
+    font-weight: 700;
+    font-size: 22px;
+}
+.form-select{
+    font-weight: 700;
+    font-size: 22px;
+    color:#ADA49C;
+}
