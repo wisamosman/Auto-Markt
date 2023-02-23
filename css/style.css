@@ -58,7 +58,7 @@
     margin-top: -5px;
 }
 .bi{
-    color: #C32622;
+    color: white;
 }
 .form-label{
     font-weight: 700;
@@ -73,7 +73,7 @@
 .w4{
     background-color: white;
     border-radius: 15px;
-    margin-top: -20px;
+    
 }
 .w1{
     background-color:#F7F7F7 ;
@@ -86,5 +86,11 @@
     margin-left: 160px;
 }
 .w6{
-    height: 443px;
+    height: 429px;
+}
+.w9{
+    background-color:#F7F7F7 ;
+}
+e1{
+    border: 3px solid blue;
 }
