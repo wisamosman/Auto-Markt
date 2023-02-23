@@ -113,3 +113,16 @@
 .u2{
     font-weight: 800;
 }
+.O1{
+padding: 10PX 40PX;
+text-decoration: none;
+color: white;
+background-color: #1C2866;
+margin-left: 90px;
+}
+.O2{
+    padding: 10PX 40PX;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
